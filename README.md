@@ -1,6 +1,6 @@
 # Exploring the math of thresholds
 
-Article Link:
+Article Link: https://blog.bakman.build/blogs/exploring-the-math-of-thresholds.html
 
 ## Simulations
 
